@@ -24,4 +24,12 @@ ____________________________
 ___
 
 #### Contato 📱
- ![logo do whatsapp'](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white (https://wa.me/5547999223296?text=Boa%20tarde%2C%20vi%20seu%20perfil%20no%20github%20))
+   
+   📞 [+55 47 99922-3296](https://wa.me/5547999223296)  
+   📨 Loreznikaua1@gmail.com
+
+#### Linguagens:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
+
