@@ -19,7 +19,7 @@ Carteira:
 Rede Bitcoin
 ____________________________
  
-  Minhas comidas favoritas? 😶 Com toda certeza chocolate 🍫 qualquer coisa que envolva chocolate está bom **7w7** 
+  Minhas comidas favoritas? 😶 Com toda certeza chocolate 🍫 qualquer coisa que envolva chocolate está bom
  
 ___
 
