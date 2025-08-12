@@ -31,3 +31,7 @@ ___
 #### Linguagens:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kilmo0&layout=compact&theme=tokyonight)
+
+#### Aprendendo:
+
+[![roadmap.sh](https://roadmap.sh/card/tall/689b3a41614598977ef0da8f?variant=dark)](https://roadmap.sh)
